@@ -1,0 +1,4 @@
+uuid: 383b0c9b-cc21-4abc-aa59-11e848df56f4
+type: SampleData[PairedEndSequencesWithQuality]
+format: SingleLanePerSamplePairedEndFastqDirFmt
+data-size: 1.5 GiB

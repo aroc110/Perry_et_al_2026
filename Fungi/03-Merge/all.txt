@@ -1,0 +1,198 @@
+Sample ID	Species Name	ExtraSpecies	Tissue	Concentration (ng/ul)	temp	Preference Catergory	Habitat Type	Site	Site2 	name	Year
+K3	Cibotium chamissoi	Cibotium sp.	Microbiome swab	2.1	"CRSP230622-01, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K3	2023
+K37	Cibotium chamissoi	Cibotium sp.	Microbiome swab	4.96	"CRSP230623-08, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K37	2023
+K4	Cibotium chamissoi	Cibotium sp.	Microbiome swab	1.03	"CRSP230622-02, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K4	2023
+K12	Cibotium glaucum	Cibotium sp.	Microbiome swab	2.88	"CRSP230622-03, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K12	2023
+K16	Cibotium glaucum	Cibotium sp.	Microbiome swab	0.87	"CRSP230622-04, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K16	2023
+K20	Cibotium glaucum	Cibotium sp.	Microbiome swab	4.92	"CRSP230623-05, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K20	2023
+K22	Cibotium glaucum	Cibotium sp.	Microbiome swab	1.85	"CRSP230623-06, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K22	2023
+K31	Cibotium glaucum	Cibotium sp.	Microbiome swab	4.95	"CRSP230623-07, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K31	2023
+K36	Cibotium glaucum	Cibotium sp.	Microbiome swab	2.96	"CRSP230623-08, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K36	2023
+K7	Cibotium glaucum	Cibotium sp.	Microbiome swab	8.38	"CRSP230622-02, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K7	2023
+K1	Hydrangea arguta	Hydrangea arguta	Microbiome swab	0.53	"CRSP230622-01, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K1	2023
+K10	Hydrangea arguta	Hydrangea arguta	Microbiome swab	0.61	"CRSP230622-03, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K10	2023
+K14	Hydrangea arguta	Hydrangea arguta	Microbiome swab	5.88	"CRSP230622-04, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K14	2023
+K17	Hydrangea arguta	Hydrangea arguta	Microbiome swab	1.45	"CRSP230623-05, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K17	2023
+K24	Hydrangea arguta	Hydrangea arguta	Microbiome swab	3.42	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K24	2023
+K28	Hydrangea arguta	Hydrangea arguta	Microbiome swab	4.25	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K28	2023
+K29	Hydrangea arguta	Hydrangea arguta	Microbiome swab	4.36	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K29	2023
+K30	Hydrangea arguta	Hydrangea arguta	Microbiome swab	2.57	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K30	2023
+K34	Hydrangea arguta	Hydrangea arguta	Microbiome swab	4.58	"CRSP230623-07, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K34	2023
+K39	Hydrangea arguta	Hydrangea arguta	Microbiome swab	3.94	"CRSP230623-08, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K39	2023
+K8	Hydrangea arguta	Hydrangea arguta	Microbiome swab	0.51	"CRSP230622-02, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K8	2023
+K11	Ilex anomala	Ilex	Microbiome swab	3.69	"CRSP230622-03, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K11	2023
+K15	Ilex anomala	Ilex	Microbiome swab	5.52	"CRSP230622-04, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K15	2023
+K21	Ilex anomala	Ilex	Microbiome swab	3.06	"CRSP230623-05, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K21	2023
+K25	Ilex anomala	Ilex	Microbiome swab	0.88	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K25	2023
+K26	Ilex anomala	Ilex	Microbiome swab	3.65	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K26	2023
+K27	Ilex anomala	Ilex	Microbiome swab	3.41	"CRSP230623-06, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K27	2023
+K32	Ilex anomala	Ilex	Microbiome swab	4.17	"CRSP230623-07, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K32	2023
+K38	Ilex anomala	Ilex	Microbiome swab	1.81	"CRSP230623-08, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K38	2023
+K5	Ilex anomala	Ilex	Microbiome swab	5.21	"CRSP230622-02, Ka'ala"	Preferred	Wet Forest	Ka'ala	Ka'ala	K5	2023
+K13	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	3.86	"CRSP230622-03, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K13	2023
+K19	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	4.13	"CRSP230623-05, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K19	2023
+K2	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	1.52	"CRSP230622-01, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K2	2023
+K23	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	5.16	"CRSP230623-06, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K23	2023
+K33	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	0.34	"CRSP230623-07, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K33	2023
+K35	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	4.8	"CRSP230623-08, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K35	2023
+K9	Metrosideros polymorpha var. glabberima	Metrosideros	Microbiome swab	2.55	"CRSP230622-02, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K9	2023
+K18	Metrosideros polymorpha var. polymorpha 	Metrosideros	Microbiome swab	5.58	"CRSP230623-05, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K18	2023
+K40	Metrosideros polymorpha var. polymorpha 	Metrosideros	Microbiome swab	5.54	"CRSP230623-08, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K40	2023
+K6	Metrosideros polymorpha var. polymorpha 	Metrosideros	Microbiome swab	5.07	"CRSP230622-02, Ka'ala"	Avoided	Wet Forest	Ka'ala	Ka'ala	K6	2023
+M6	Antidesma platyphyllum	Antidesma platyphyllum	Microbiome swab	4.39	"CRSP230725-01, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M6	2023
+M48	Asplenium excisum	Asplenium excisum	Microbiome swab	1.85	"CRSP230725-01, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M48	2023
+M8	Asplenium excisum	Asplenium excisum	Microbiome swab	1.81	"CRSP230725-01, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M8	2023
+M23	Ceodes brunoniana	Ceodes brunoniana	Microbiome swab	5.31	"CRSP230725-04, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M23	2023
+M12	Cibotium chamissoi	Cibotium sp.	Microbiome swab	5.68	"CRSP230725-02, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M12	2023
+M15	Cibotium chamissoi	Cibotium sp.	Microbiome swab	4.75	"CRSP230725-03, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M15	2023
+M26	Cibotium chamissoi	Cibotium sp.	Microbiome swab	5.3	"CRSP230725-04, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M26	2023
+M36	Cibotium chamissoi	Cibotium sp.	Microbiome swab	1.86	"CRSP230725-06, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M36	2023
+M5	Cibotium chamissoi	Cibotium sp.	Microbiome swab	1.75	"CRSP230725-01, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M5	2023
+M52	Cibotium chamissoi	Cibotium sp.	Microbiome swab	0.39	"CRSP230725-02, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M52	2023
+M56	Cibotium chamissoi	Cibotium sp.	Microbiome swab	0.23	"CRSP230725-06, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M56	2023
+M40	Cibotium glaucum	Cibotium sp.	Microbiome swab	5.15	"CRSP230725-06, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M40	2023
+M17	Cibotium menziesii	Cibotium sp.	Microbiome swab	2.62	"CRSP230725-03, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M17	2023
+M33	Citharexylum caudatum	Citharexylum caudatum	Microbiome swab	4.35	"CRSP230725-05, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M33	2023
+M10	Clidemia hirta	Clidemia hirta	Microbiome swab	2.15	"CRSP230725-02, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M10	2023
+M14	Clidemia hirta	Clidemia hirta	Microbiome swab	0.62	"CRSP230725-03, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M14	2023
+M2	Clidemia hirta	Clidemia hirta	Microbiome swab	1.86	"CRSP230725-01, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M2	2023
+M25	Clidemia hirta	Clidemia hirta	Microbiome swab	2.16	"CRSP230725-04, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M25	2023
+M29	Clidemia hirta	Clidemia hirta	Microbiome swab	2.32	"CRSP230725-05, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M29	2023
+M38	Clidemia hirta	Clidemia hirta	Microbiome swab	5.56	"CRSP230725-06, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M38	2023
+M43	Clidemia hirta	Clidemia hirta	Microbiome swab	0.2	"CRSP230725-03, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M43	2023
+M47	Clidemia hirta	Clidemia hirta	Microbiome swab	0.2	"CRSP230725-02, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M47	2023
+M54	Clidemia hirta	Clidemia hirta	Microbiome swab	0.29	"CRSP230725-05, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M54	2023
+M55	Clidemia hirta	Clidemia hirta	Microbiome swab	0.06	"CRSP230725-04, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M55	2023
+NEG1	Field negative	Field negative	Microbiome swab	0.01	"CRSP240111-01, Makiki Reswabs"	Negative	Wet Forest	Makiki Reswabs	Makiki	NEG1	2023
+NEG2	Field negative	Field negative	Microbiome swab	0.01	Makiki Reswabs	Negative	Wet Forest	Makiki Reswabs	Makiki	NEG2	2023
+M1	Hedychium coronarium	Hedychium coronarium	Microbiome swab	2.33	"CRSP230725-01, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M1	2023
+M11	Hedychium coronarium	Hedychium coronarium	Microbiome swab	2.68	"CRSP230725-02, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M11	2023
+M16	Hedychium coronarium	Hedychium coronarium	Microbiome swab	1.49	"CRSP230725-03, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M16	2023
+M21	Hedychium coronarium	Hedychium coronarium	Microbiome swab	2.69	"CRSP230725-04, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M21	2023
+M34	Hedychium coronarium	Hedychium coronarium	Microbiome swab	1.27	"CRSP230725-06, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M34	2023
+M44	Hedychium coronarium	Hedychium coronarium	Microbiome swab	0.12	"CRSP230725-03, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M44	2023
+M46	Hedychium coronarium	Hedychium coronarium	Microbiome swab	0.84	"CRSP230725-06, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M46	2023
+M51	Hedychium coronarium	Hedychium coronarium	Microbiome swab	0.04	"CRSP230725-01, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M51	2023
+M59	Hedychium coronarium	Hedychium coronarium	Microbiome swab	0.04	"CRSP230725-02, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M59	2023
+M27	Metrosideros polymorpha var. glaberrima	Metrosideros	Microbiome swab	1.31	"CRSP230725-04, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M27	2023
+M45	Metrosideros polymorpha var. glaberrima	Metrosideros	Microbiome swab	0.16	"CRSP230725-04, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M45	2023
+M20	Nephrolepis exaltata subsp. hawaiiensis	Nephrolepis exaltata subsp. hawaiiensis	Microbiome swab	4.43	"CRSP230725-04, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M20	2023
+M19	Oplismenus hirtellus	Oplismenus hirtellus	Microbiome swab	3.35	"CRSP230725-04, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M19	2023
+M30	Oplismenus hirtellus	Oplismenus hirtellus	Microbiome swab	3.06	"CRSP230725-05, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M30	2023
+M35	Oplismenus hirtellus	Oplismenus hirtellus	Microbiome swab	2.83	"CRSP230725-06, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M35	2023
+M58	Oplismenus hirtellus	Oplismenus hirtellus	Microbiome swab	0.42	"CRSP230725-01, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M58	2023
+M7	Oplismenus hirtellus	Oplismenus hirtellus	Microbiome swab	2.78	"CRSP230725-01, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M7	2023
+M9	Oplismenus hirtellus	Oplismenus hirtellus	Microbiome swab	5.27	"CRSP230725-02, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M9	2023
+M22	Prichardia bakeri	Prichardia bakeri	Microbiome swab	5.35	"CRSP230725-04, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M22	2023
+M18	Psychotria mariniana	Psychotria mariniana	Microbiome swab	2.17	"CRSP230725-03, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M18	2023
+M32	Psychotria mariniana	Psychotria mariniana	Microbiome swab	3.93	"CRSP230725-05, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M32	2023
+M4	Psychotria mariniana	Psychotria mariniana	Microbiome swab	4.6	"CRSP230725-01, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M4	2023
+M49	Psychotria mariniana	Psychotria mariniana	Microbiome swab	0.01	"CRSP230725-03, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M49	2023
+M37	Psydrax odorata	Psydrax odorata	Microbiome swab	1.65	"CRSP230725-06, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M37	2023
+M53	Psydrax odorata	Psydrax odorata	Microbiome swab	0.69	"CRSP230725-06, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M53	2023
+M13	Setaria palmifolia	Setaria palmifolia	Microbiome swab	0.45	"CRSP230725-02, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M13	2023
+M24	Setaria palmifolia	Setaria palmifolia	Microbiome swab	5.76	"CRSP230725-04, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M24	2023
+M3	Setaria palmifolia	Setaria palmifolia	Microbiome swab	5.36	"CRSP230725-01, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M3	2023
+M31	Setaria palmifolia	Setaria palmifolia	Microbiome swab	5.5	"CRSP230725-05, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M31	2023
+M39	Setaria palmifolia	Setaria palmifolia	Microbiome swab	5.43	"CRSP230725-06, Makiki Reswabs"	Avoided	Wet Forest	Makiki Reswabs	Makiki	M39	2023
+M41	Setaria palmifolia	Setaria palmifolia	Microbiome swab	0.76	"CRSP230725-01, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M41	2023
+M42	Setaria palmifolia	Setaria palmifolia	Microbiome swab	0.12	"CRSP230725-02, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M42	2023
+M50	Setaria palmifolia	Setaria palmifolia	Microbiome swab	0.36	"CRSP230725-05, Makiki"	Avoided	Wet Forest	Makiki	Makiki	M50	2023
+M28	Touchardia oahuensis	Touchardia oahuensis	Microbiome swab	2.72	"CRSP230725-04, Makiki Reswabs"	Preferred	Wet Forest	Makiki Reswabs	Makiki	M28	2023
+M57	Touchardia oahuensis	Touchardia oahuensis	Microbiome swab	0.16	"CRSP230725-04, Makiki"	Preferred	Wet Forest	Makiki	Makiki	M57	2023
+A1	Amastridae	Amastridae	Feces	5.08	Amastrid snail feces	None	None	None	None	A1	2023
+A2	Amastridae	Amastridae	Feces	0.16	Amastrid snail feces	None	None	None	None	A2	2023
+A3	Amastridae	Amastridae	Feces	0.15	Amastrid snail feces	None	None	None	None	A3	2023
+P26	Asplenium acuminatum	Asplenium acuminatum	Microbiome swab	1.13	"CRSP230707-05, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P26	2023
+P14	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	1.19	"CRSP230706-04, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P14	2023
+P21	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	0.44	"CRSP230707-05, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P21	2023
+P33	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	1.23	"CRSP230707-06, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P33	2023
+P36	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	1.22	"CRSP230707-07, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P36	2023
+P42	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	0.2	"CRSP230707-08, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P42	2023
+P6	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	0.33	"CRSP230706-02, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P6	2023
+P8	Blechnum appendiculatum	Blechnum appendiculatum	Microbiome swab	0.26	"CRSP230706-03, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P8	2023
+P11	Christella parasitica	Christella parasitica	Microbiome swab	1.13	"CRSP230706-03, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P11	2023
+P13	Christella parasitica	Christella parasitica	Microbiome swab	1.34	"CRSP230706-04, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P13	2023
+P20	Christella parasitica	Christella parasitica	Microbiome swab	0.13	"CRSP230707-05, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P20	2023
+P30	Christella parasitica	Christella parasitica	Microbiome swab	0.06	"CRSP230707-06, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P30	2023
+P40	Christella parasitica	Christella parasitica	Microbiome swab	0.05	"CRSP230707-07, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P40	2023
+P44	Christella parasitica	Christella parasitica	Microbiome swab	0.04	"CRSP230707-08, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P44	2023
+P5	Christella parasitica	Christella parasitica	Microbiome swab	0.69	"CRSP230706-02, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P5	2023
+P16	Cibotium chamissoi	Cibotium sp.	Microbiome swab	1.45	"CRSP230706-04, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P16	2023
+P19	Cibotium chamissoi	Cibotium sp.	Microbiome swab	4.97	"CRSP230707-05, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P19	2023
+P2	Cibotium chamissoi	Cibotium sp.	Microbiome swab	1.85	"CRSP230706-02, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P2	2023
+P37	Cibotium chamissoi	Cibotium sp.	Microbiome swab	0.17	"CRSP230707-07, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P37	2023
+P43	Cibotium chamissoi	Cibotium sp.	Microbiome swab	3.85	"CRSP230707-08, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P43	2023
+P17	Coprosma longifolia	Coprosma longifolia	Microbiome swab	1.21	"CRSP230706-04, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P17	2023
+P22	Coprosma longifolia	Coprosma longifolia	Microbiome swab	1.39	"CRSP230707-05, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P22	2023
+P25	Diplazium sandwichianum	Diplazium sandwichianum	Microbiome swab	1.6	"CRSP230707-05, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P25	2023
+P31	Diplazium sandwichianum	Diplazium sandwichianum	Microbiome swab	0.18	"CRSP230707-06, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P31	2023
+P38	Diplazium sandwichianum	Diplazium sandwichianum	Microbiome swab	1.04	"CRSP230707-07, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P38	2023
+P12	Diplazium sanwichianum	Diplazium sanwichianum	Microbiome swab	0	"CRSP230706-03, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P12	2023
+P4	Diplazium sanwichianum	Diplazium sanwichianum	Microbiome swab	0.4	"CRSP230706-02, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P4	2023
+P29	Hydrangea arguta	Hydrangea arguta	Microbiome swab	0	"CRSP230707-06, Palikea"	UndefinedP	Montane Mesic Forest	Palikea	Palikea	P29	2023
+P34	Hydrangea arguta	Hydrangea arguta	Microbiome swab	4.05	"CRSP230707-06, Palikea"	UndefinedP	Montane Mesic Forest	Palikea	Palikea	P34	2023
+P35	Hydrangea arguta	Hydrangea arguta	Microbiome swab	4.88	"CRSP230707-06, Palikea"	UndefinedP	Montane Mesic Forest	Palikea	Palikea	P35	2023
+P24	Kadua affinis	Kadua affinis	Microbiome swab	1.61	"CRSP230707-05, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P24	2023
+P28	Kadua affinis	Kadua affinis	Microbiome swab	2.12	"CRSP230707-06, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P28	2023
+P32	Metrosideros polymorpha var. glaberrima	Metrosideros	Microbiome swab	0.17	"CRSP230707-06, Palikea"	UndefinedP	Montane Mesic Forest	Palikea	Palikea	P32	2023
+P1	Passiflora suberosa	Passiflora suberosa	Microbiome swab	0.16	"CRSP230706-01, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P1	2023
+P27	Passiflora suberosa	Passiflora suberosa	Microbiome swab	0.64	"CRSP230707-05, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P27	2023
+P39	Passiflora suberosa	Passiflora suberosa	Microbiome swab	0.27	"CRSP230707-07, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P39	2023
+P46	Passiflora suberosa	Passiflora suberosa	Microbiome swab	0.08	"CRSP230707-08, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P46	2023
+P7	Passiflora suberosa	Passiflora suberosa	Microbiome swab	0.31	"CRSP230706-02, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P7	2023
+P45	Pipturs albidus	Pipturs albidus	Microbiome swab	0.59	"CRSP230707-08, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P45	2023
+P10	Pipturus albidus	Pipturus albidus	Microbiome swab	0.06	"CRSP230706-03, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P10	2023
+P15	Pipturus albidus	Pipturus albidus	Microbiome swab	1.01	"CRSP230706-04, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P15	2023
+P18	Pipturus albidus	Pipturus albidus	Microbiome swab	0.23	"CRSP230707-05, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P18	2023
+P3	Pipturus albidus	Pipturus albidus	Microbiome swab	1.08	"CRSP230706-02, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P3	2023
+P41	Pipturus albidus	Pipturus albidus	Microbiome swab	0.43	"CRSP230707-07, Palikea"	Avoided	Montane Mesic Forest	Palikea	Palikea	P41	2023
+P23	Psychotria mariniana	Psychotria mariniana	Microbiome swab	5.05	"CRSP230707-05, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P23	2023
+P9	Touchardia oahuensis	Touchardia oahuensis	Microbiome swab	0.96	"CRSP230706-03, Palikea"	Preferred	Montane Mesic Forest	Palikea	Palikea	P9	2023
+PCMB54313x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54313x-515	2018
+PCMB54319x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54319x-515	2020
+PCMB54323x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54323x-515	2018
+PCMB54324x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54324x-515	2018
+PCMB54335x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54335x-515	2020
+PCMB54336x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54336x-515	2020
+PCMB54351x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54351x-515	2020
+PCMB54352x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54352x-515	2020
+PCMB54353x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54353x-515	2020
+PCMB54354x-515	Cibotium sp.	Cibotium sp.	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54354x-515	2020
+PCMB54315x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54315x-515	2018
+PCMB54317x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54317x-515	2020
+PCMB54327x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54327x-515	2018
+PCMB54328x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54328x-515	2018
+PCMB54331x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54331x-515	2020
+PCMB54332x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54332x-515	2020
+PCMB54343x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54343x-515	2020
+PCMB54344x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54344x-515	2020
+PCMB54345x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54345x-515	2020
+PCMB54346x-515	Metrosideros polymorpha	Metrosideros	Microbiome swab		Ka'ala	Avoided	Wet Forest	Ka'ala	Ka'ala	PCMB54346x-515	2020
+PCMB54312x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54312x-515	2018
+PCMB54316x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54316x-515	2020
+PCMB54321x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54321x-515	2018
+PCMB54322x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54322x-515	2018
+PCMB54329x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54329x-515	2020
+PCMB54330x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54330x-515	2020
+PCMB54339x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54339x-515	2020
+PCMB54340x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54340x-515	2020
+PCMB54341x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54341x-515	2020
+PCMB54342x-515	Hydrangea arguta	Hydrangea arguta	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54342x-515	2020
+PCMB54320x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54320x-515	2020
+PCMB54337x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54337x-515	2020
+PCMB54338x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54338x-515	2020
+PCMB54355x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54355x-515	2020
+PCMB54356x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54356x-515	2020
+PCMB54357x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54357x-515	2020
+PCMB54358x-515	Clermontia sp.	Clermontia sp.	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54358x-515	2020
+PCMB54314x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54314x-515	2018
+PCMB54318x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54318x-515	2020
+PCMB54325x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54325x-515	2018
+PCMB54326x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54326x-515	2018
+PCMB54333x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54333x-515	2020
+PCMB54334x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54334x-515	2020
+PCMB54347x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54347x-515	2020
+PCMB54348x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54348x-515	2020
+PCMB54349x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54349x-515	2020
+PCMB54350x-515	Ilex-515 sp.	Ilex	Microbiome swab		Ka'ala	Preferred	Wet Forest	Ka'ala	Ka'ala	PCMB54350x-515	2020
