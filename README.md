@@ -4,9 +4,7 @@ Repository with the analyses from Perry_et_al_2026.
 
 The repository has all the results of running qiime2 in our data with the exception of the imported data artifacts as these are too big.
 
-If you want to rerun the analyses, the data used is available at Zenodo: 
-
-
+If you want to rerun the analyses, the data used is available at Zenodo: [doi.org/0.5281/zenodo.20603399](https://doi.org/10.5281/zenodo.20603399).
 
 Download the data, unzip the file, and add the `data` directories for Bacteria and Fungi for the 2018/2020 and 2023, to the corresponding directories in the repository.
 
